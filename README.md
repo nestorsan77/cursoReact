@@ -1,2 +1,0 @@
-# cursoReact
-Aprendiendo React
